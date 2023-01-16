@@ -1,8 +1,14 @@
 {
-    "name": "docs.page",
+    "name": "Web3Sözlük",
+    "logo": "/assets/logo.png",
     "theme": "#36B9B9",
+    "twitter": "web3sozluk",
+    "anchors": [
+      { "title": "Homepage", "icon": "house", "link": "https://web3sozluk.xyz"},
+      { "title": "Discord", "icon": "discord", "link": "https://discord.gg/Geu42uyN"}
+    ],
     "sidebar": [
       ["Home", "/"],
-      ["Another Page", "/another-page"],
+      ["Another Page", "/another-page"]
     ]
   }
