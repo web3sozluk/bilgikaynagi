@@ -1,14 +1,39 @@
 {
     "name": "Web3Sözlük",
-    "logo": "/assets/logo.svg", 
+    "description": "Web3 bilgi kaynağı",
+    "logo": "/assets/logo.svg",
+    "logoDark": "/assets/logoDark.svg", 
     "theme": "#36B9B9",
     "twitter": "web3sozluk",
+    "headerDepth": "3",
+    "googleTagManager": "",
+    "googleAnalytics": "",
+    "zoomImagers": "false",
+    "docsearch": {
+      "appId": "",
+      "apiKey": "",
+      "indexName": "docsearch"
+    },
     "anchors": [
       { "title": "Homepage", "icon": "house", "link": "https://web3sozluk.xyz"},
       { "title": "Discord", "icon": "discord", "link": "https://discord.gg/Geu42uyN"}
     ],
     "sidebar": [
-      ["Home", "/"],
-      ["Another Page", "/another-page"]
+      [
+        "Başlangıç",
+        [
+          ["Web3Sözlük", "/"],
+          ["Tanım", "/web3tanım"]
+        ]
+      ],
+      [
+        "Web'in kısa tarihi'?",
+        [
+          ["Web1", "/web1"],
+          ["Web2", "/web2"],
+          ["Web3", "/web3"]
+
+        ]
+      ]
     ]
   }
