@@ -31,10 +31,17 @@
         [
           ["Giriş", "/webintarihi"],
           ["Web1", "/web1"],
-          ["Web2", "/web2"],
-          ["Web3", "/web3"]
-
+          ["Web2", "/web2"]        
         ]
+      ],
+      [
+        "Web3",
+      [
+        ["Web3 nedir?", "/web3nedir"],
+        ["Blokzincir", "/blokzincir"],
+        ["Değer İnterneti", "/degerinterneti"],
+        ["Web3 Rehberi", "/web3rehberi"]     
+      ]
       ]
     ]
   }
