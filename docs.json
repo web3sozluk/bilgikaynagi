@@ -6,8 +6,8 @@
     "theme": "#36B9B9",
     "twitter": "web3sozluk",
     "headerDepth": "3",
-    "googleTagManager": "",
-    "googleAnalytics": "",
+    "googleTagManager": "GTM-NPCBF3Z",
+    "googleAnalytics": "G-BZXPSC6LP0",
     "zoomImagers": "false",
     "docsearch": {
       "appId": "",
@@ -38,6 +38,7 @@
         "Web3",
       [
         ["Web3 nedir?", "/web3nedir"],
+        ["Güven", "/guven"],
         ["Blokzincir", "/blokzincir"],
         ["Değer İnterneti", "/degerinterneti"],
         ["Web3 Rehberi", "/web3rehberi"]     
