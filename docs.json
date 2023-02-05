@@ -42,6 +42,12 @@
         ["Değer İnterneti", "/degerinterneti"],
         ["Web3 Rehberi", "/web3rehberi"]     
       ]
+      ],
+      [
+        "Sözlük",
+      [
+        ["Terimler", "/terimler"]    
+      ]
       ]
     ]
   }
